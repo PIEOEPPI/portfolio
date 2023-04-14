@@ -1819,7 +1819,7 @@ body {
 
 .main.dark .button.style2.down {
 	background-image: url("../images/dark-arrow.svg");
-	margin-top: 29em;
+	margin-top: 28em;
 }
 
 .main.dark p a {
@@ -2024,6 +2024,7 @@ body.is-touch .main {
 
 #resume .content h3 {
 	font-size: 30px;
+	line-height: 40px;
 	margin-bottom: 1em;
 }
 
